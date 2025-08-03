@@ -42,10 +42,10 @@ If it involves domain dominance, evasion tactics, or post-exploitation magic —
 
 | Certification        | Provider                     |
 |----------------------|------------------------------|
-| 🧠 CRTP              | Pentester Academy            |
+| 💥 CRTL              | Zero-Point Security          |
 | 🛡️ CRTO              | Zero-Point Security          |
-| 💥 CRTL              | Altered Security             |
-| 🎯 CRTeamer          | Secops Group                 |
+| 🧠 CRTP              | Altered Security             |
+| 🎯 CRTeamer          | SecOps Group                 |
 
 > *Each of these helped me master different parts of offensive security — from AD enumeration to full-on red team ops.*
 
