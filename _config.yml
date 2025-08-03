@@ -105,7 +105,7 @@ avatar: https://media.licdn.com/dms/image/v2/D4D03AQHLR0X0uLEJmQ/profile-display
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: false
+toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
