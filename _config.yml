@@ -34,12 +34,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Jay Tiwari
+  email: don't_mail_me@pain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/jaytiwari055 # change to your Twitter homepage
+    - https://github.com/jaytiwar05 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "/assets/images"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://media.licdn.com/dms/image/v2/D4D03AQHLR0X0uLEJmQ/profile-displayphoto-shrink_800_800/B4DZOyG8uCHYAk-/0/1733859986955?e=1756944000&v=beta&t=FAV-IvuYo4oQPAdJcxOqLFrvphEKj1-BHO179sPaXL8
