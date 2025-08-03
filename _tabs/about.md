@@ -10,12 +10,11 @@ order: 4
 <h1 align="center">🩸 About Me — Jay Tiwari</h1>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Role-Red%20Teamer-%23e63946?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-3rd%20Year%20Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-India-green?style=flat-square" />
-
+  <img src="https://img.shields.io/badge/Role-Red%20Teamer-%23e63946?style=flat-square" alt="Role: Red Teamer" />
+  <img src="https://img.shields.io/badge/Year-3rd%20Year%20Engineering-blue?style=flat-square" alt="Year: 3rd Year Engineering" />
+  <img src="https://img.shields.io/badge/Location-India-green?style=flat-square" alt="Location: India" />
 </div>
+
 
 
 ---
