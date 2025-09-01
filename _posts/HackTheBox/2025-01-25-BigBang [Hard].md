@@ -1,5 +1,5 @@
 ---
-title: Big Bang
+title: Big Bang [Hard]
 date: 2025-01-25
 categories: [HacTheBox]
 tags: AppSec Web 

@@ -1,5 +1,5 @@
 ---
-title: Checker
+title: Checker [Hard]
 date: 2025-02-23
 categories: [HacTheBox]
 tags: AppSec Web RE
