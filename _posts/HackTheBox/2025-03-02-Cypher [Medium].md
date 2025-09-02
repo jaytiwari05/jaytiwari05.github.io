@@ -116,7 +116,7 @@ Here's why it takes three parts:
 
 [Example]
 
-Make a python server & [shell.sh](http://shell.sh) to get a reverse_shell & make netcat to listen
+Make a python server & shell.sh to get a reverse_shell & make netcat to listen
 
 ```bash
 python3 -m http.server 80
