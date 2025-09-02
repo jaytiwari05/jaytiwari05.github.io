@@ -1,8 +1,8 @@
 ---
 title: Big Bang [Hard]
 date: 2025-01-25
-categories: [HacTheBox]
-tags: AppSec Web 
+categories: [HackTheBox]
+tags: AppSec Web Linux
 img_path: /assets/Images/HTB_BigBang/logo.png
 image:
   path: /assets/Images/HTB_BigBang/logo.png

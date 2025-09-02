@@ -1,8 +1,8 @@
 ---
 title: Checker [Hard]
 date: 2025-02-23
-categories: [HacTheBox]
-tags: AppSec Web RE
+categories: [HackTheBox]
+tags: AppSec Web RE Linux
 img_path: /assets/Images/HTB_Checker/logo.png
 image:
   path: /assets/Images/HTB_Checker/logo.png
