@@ -78,7 +78,7 @@ Priority: u=0, i
 
 ```
 
-Boom !! It Worked.
+Boom !! It Worked!.
 
 ![image.png](/assets/Images/HTB_Control/image%203.png)
 
