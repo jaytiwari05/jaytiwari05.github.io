@@ -384,7 +384,7 @@ proxychains evil-winrm -i 127.0.0.1 -u 'Administrator' -H 'c2b0900f281741100a59f
 
 ![image.png](/assets/Images/HTB_Control/image%2027.png)
 
-Dumping the `sam`
+Dumping the `sam` file
 
 ![image.png](/assets/Images/HTB_Control/image%2028.png)
 
