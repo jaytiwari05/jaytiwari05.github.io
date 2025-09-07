@@ -1,8 +1,8 @@
 ---
-title: StreamIO [Medium]
-date: 2025-08-27
+title: Querier [Medium]
+date: 2025-08-28
 categories: [HackTheBox, OSEP]
-tags: AD Web Windows
+tags: AD Windows
 img_path: /assets/Images/HTB_Querier/logo.png
 image:
   path: /assets/Images/HTB_Querier/logo.png
