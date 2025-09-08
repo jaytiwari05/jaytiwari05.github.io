@@ -57,7 +57,7 @@ Access Denied because it shows that there is a Header missing
 
 ### Admin Panel Auth Bypass
 
-For Adding Proxy in the request we can use X-Forwarded-For and add the IP so it can be accessible
+For Adding Proxy in the request we can use <mark>X-Forwarded-For</mark> and add the IP so it can be accessible
 
 [X-Forwarded-For header - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-Forwarded-For)
 
