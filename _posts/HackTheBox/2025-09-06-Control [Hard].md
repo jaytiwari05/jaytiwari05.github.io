@@ -61,7 +61,7 @@ For Adding Proxy in the request we can use <mark>X-Forwarded-For</mark> and add 
 
 [X-Forwarded-For header - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-Forwarded-For)
 
-We used `X-Forwarded-For` bypassing the Restriction  
+We used `X-Forwarded-For` bypassing the Restriction.  
 
 ```bash
 GET /admin.php HTTP/1.1
