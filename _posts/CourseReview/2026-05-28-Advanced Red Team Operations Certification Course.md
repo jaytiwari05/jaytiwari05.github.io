@@ -47,7 +47,7 @@ To make it sure that this is an Advance Red Team Cert so they expect you some pr
 
 ### EDR Evasion [ Crowd Strike ]
 
-<img src="https://awsmp-logos.s3.amazonaws.com/f4fb055a-5333-4b6e-8d8b-a4143ad7f6c7/7044e29823eb600ea657765bd790d875.png" width="250">
+<img src="https://awsmp-logos.s3.amazonaws.com/f4fb055a-5333-4b6e-8d8b-a4143ad7f6c7/7044e29823eb600ea657765bd790d875.png" width="250" alt="CrowdStrike Logo">
 
 In the lab you will get Crowd Strike EDR configured so that you can test your payloads against it and see how it works and how you can bypass it and other stuff. this where thing are starts getting interesting. because in real life you will not face Windows Defender only, because companies have Microsoft Defender for Endpoint but also other EDRs like Crowd Strike, SentinelOne, Trellix and many more, so you have to be prepared for all of them. This course gives you a reality check where more people don't even know how to bypass EDR's
 
@@ -57,19 +57,19 @@ In my Opinion C2 profile is the most important part of Red Team because it is th
 
 ### Cobalt Strike & AdaptixC2 - A Deep Dive Worth Taking
 
-<img src="https://0xboku.com/assets/images/cs.png" width="120">
+<img src="https://0xboku.com/assets/images/cs.png" width="120" alt="Cobalt Strike Logo">
 
 They are also teaching you a C2 called Adaptix which is not that popular but very powerfull and you will not find this in any other course So that is a plus point in the course and yeah they are going to teach you about Cobalt Strike in a very practical way how you can use it in a real engagement.
 
 ### Cloud Redirectors (AWS, Azure, GCP, CloudFront, Lambda) - This Alone Is Worth the Price
 
-<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="120"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1280px-Microsoft_Azure.svg.png" width="100"> <img src="https://img.icons8.com/color/512/google-cloud.png" width="100">
+<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="120" alt="AWS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1280px-Microsoft_Azure.svg.png" width="100" alt="Microsoft Azure Logo"> <img src="https://img.icons8.com/color/512/google-cloud.png" width="100" alt="Google Cloud Logo">
 
 This is the one of the best module in the course because it is very realistic and you will not find this in any other course, because in Real life scenarios you have to use these cloud redirectors to make your C2 infrastructure OPSEC friendly and hard to detect from the SOC.
 
 ### BYOVD & Kernel Exploitation - Where Most Courses Stop, ARTOC Begins
 
-<img src="https://www.picussecurity.com/hs-fs/hubfs/undefined-Feb-27-2026-01-11-53-8199-PM.png?width=1600&height=855&name=undefined-Feb-27-2026-01-11-53-8199-PM.png" width="500">
+<img src="https://www.picussecurity.com/hs-fs/hubfs/undefined-Feb-27-2026-01-11-53-8199-PM.png?width=1600&height=855&name=undefined-Feb-27-2026-01-11-53-8199-PM.png" width="500" alt="BYOVD Kernel Exploitation Diagram">
 
 They are also teaching you Bring Your Own Vulnerable Driver [BYOVD] technique which is very advanced technique to Disabling Notification Callbacks by abusing the drivers which are giving in the course and also Turning off ETW and Other Telemetry which is pretty awesome.
 
