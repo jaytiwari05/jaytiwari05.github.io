@@ -1,5 +1,5 @@
 ---
-title: ODPC Course Exam Review
+title: Offensive Development Practitioner Course Exam Review
 date: 2026-09-22
 categories: [WhiteKinghtLabs]
 tags: Course Review
@@ -8,7 +8,7 @@ image:
   path: /assets/Images/CourseReview/ODPC_Logo.svg
 ---
 
-# ODPC Course and Exam Review: My Experience
+# Offensive Development Practitioner Course and Exam Review: My Experience
 
 ![ODPC LAB](/assets/Images/CourseReview/ODPC_Logo.svg)
 
