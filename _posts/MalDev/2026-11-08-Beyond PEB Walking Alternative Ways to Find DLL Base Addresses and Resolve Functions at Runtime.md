@@ -24,15 +24,14 @@ We'll go through each technique with the actual C code, explain what every line 
 ## Table of Contents
 
 1. [The Foundation: What We're Building On](#the-foundation)
-2. [The Building Blocks: Common Code](#the-building-blocks)
-3. [Technique 1: Stack Scan + MZ Backward Walk](#technique-1-stack-scan--mz-backward-walk)
-4. [Technique 2: Thread Entry at Stack Bottom](#technique-2-thread-entry-at-stack-bottom)
-5. [Technique 3: Export Table Bootstrap](#technique-3-export-table-bootstrap)
-6. [Technique 4: IAT Parsing](#technique-4-iat-parsing)
-7. [Technique 5: VEH + Deliberate Exception](#technique-5-veh--deliberate-exception)
-8. [The Payoff: DJB2 Hash-Based Function Resolution](#the-payoff-djb2-hash-based-function-resolution)
-9. [The Endgame: LoadLibraryW + GetProcAddress = Everything](#the-endgame)
-10. [Putting It All Together](#putting-it-all-together)
+2. [Technique 1: Stack Scan + MZ Backward Walk](#technique-1-stack-scan--mz-backward-walk)
+3. [Technique 2: Thread Entry at Stack Bottom](#technique-2-thread-entry-at-stack-bottom)
+4. [Technique 3: Export Table Bootstrap](#technique-3-export-table-bootstrap)
+5. [Technique 4: IAT Parsing](#technique-4-iat-parsing)
+6. [Technique 5: VEH + Deliberate Exception](#technique-5-veh--deliberate-exception)
+7. [The Payoff: DJB2 Hash-Based Function Resolution](#the-payoff-djb2-hash-based-function-resolution)
+8. [The Endgame: LoadLibraryW + GetProcAddress = Everything](#the-endgame-loadlibraryw--getprocaddress--everything)
+9. [Key Takeaways](#key-takeaways)
 
 ---
 
