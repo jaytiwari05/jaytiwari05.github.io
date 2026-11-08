@@ -19,6 +19,8 @@ Why these two? Because once you have `LoadLibraryW` and `GetProcAddress`, you ca
 
 We'll go through each technique with the actual C code, explain what every line does, and show how you can verify each step in WinDbg.
 
+The POC Codes : - https://github.com/jaytiwari05/Six-Path-Of-Pain
+
 ---
 
 ## Table of Contents
